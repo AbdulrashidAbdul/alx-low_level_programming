@@ -18,7 +18,7 @@ i = 0;
  * {
  * infinite loop - no increase of varriable
  * putchar(i);
-}
+ *}
 */
 printf("Infinite loop avoided! \\o/\n");
 
