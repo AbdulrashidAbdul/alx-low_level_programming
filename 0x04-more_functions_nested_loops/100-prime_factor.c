@@ -12,7 +12,7 @@ for (py = 2; py < x; py++)
 {
 if (x % py == 0)
 {
- = x / py;
+x = x / py;
 }
 }
 printf("%ld\n", py);
