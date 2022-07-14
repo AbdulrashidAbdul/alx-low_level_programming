@@ -18,6 +18,7 @@ for (i = 0; i < n && src[i] != '\0'; i++)
 dest[dest_leng + i] = src[i];
 
 /*should end with a end of string char*/
-dest[dest_leng + i] = '\0';
+dest[dest_leng + i] = '\0'
+;
 return (dest);
 }
